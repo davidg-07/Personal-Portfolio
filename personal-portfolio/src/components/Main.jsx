@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import myImage from '../images/IMG_0448.jpg';
 
 const Main = () => {
   return (
     <div id='Main'>
-        <img className='' src="./images/IMG_0448" alt="" />
+        <img className='' src={myImage} alt="My Image" />
     </div>
   )
 }
