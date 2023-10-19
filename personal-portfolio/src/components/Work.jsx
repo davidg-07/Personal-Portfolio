@@ -3,10 +3,10 @@ import WorkItem from './WorkItem';
 
 const data = [
     {
-        Year: 2022,
-        Title: 'Student/Grad',
-        Duration: '6 Months',
-        Details: 'Learned both front and back end to be a full-stack Web Developer'
+        year: 2022,
+        title: 'Student/Grad',
+        duration: '6 Months',
+        details: 'Learned both front and back end to be a full-stack Web Developer'
     }
 ];
 const Work = () => {
