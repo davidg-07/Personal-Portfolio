@@ -5,7 +5,7 @@ import {FaTwitter, FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa';
 
 const Main = () => {
   return (
-    <div id="Main">
+    <div id="main">
       <img
         className="w-full h-screen object-cover object-left"
         src={myImage}
